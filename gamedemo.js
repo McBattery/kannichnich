@@ -1,7 +1,7 @@
-var leinwand = document.getElementById('leinwand').getContext('2d');
+var ramen = document.getElementById('ramen').getContext('2d');
 
 // Mit 'fillStyle' wird die Farbe gesetzt (Farbname)
-leinwand.fillStyle = "Deepskyblue";
+ramen.fillStyle = "Black";
 
 // Mit 'fillRect' wird das Rechteck erzeugt
-leinwand.fillRect(200, 100, 1000, 1000);
+ramen.fillRect(200, 100, 1000, 100000000);
